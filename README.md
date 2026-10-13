@@ -110,6 +110,24 @@ ecommerce-sales-analysis-sql/
 └── README.md
 ```
 
+## 📸 Project Screenshots
+
+### Overall Business KPIs
+![Overall KPIs](ALL%20KPI's.png)
+
+### Top Products
+![Top Products](top_products.png)
+
+### Category Revenue
+![Category Revenue](category_revenue.png)
+
+### Customer Spending
+![Customer Spending](customer_spending.png)
+
+### Monthly Sales
+![Monthly Sales](monthly_sales.png)
+
+
 ## 👩‍💻 Author
 
 **Masulkar Dnyaneshwari Subhash**
