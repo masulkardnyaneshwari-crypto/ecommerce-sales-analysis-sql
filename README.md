@@ -127,6 +127,9 @@ ecommerce-sales-analysis-sql/
 ### Monthly Sales
 ![Monthly Sales](monthly_sales.png)
 
+### Dashboard 
+![Dashboard](ecommerce-sales-dashboard.png)
+
 
 ## 👩‍💻 Author
 
